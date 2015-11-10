@@ -1,4 +1,4 @@
-package chen.com.gestureunlock.com.chen.gestureunlock.util;
+package chen.com.gestureunlock.util;
 
 import android.util.Log;
 
