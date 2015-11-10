@@ -27,3 +27,7 @@ proguard/
 # Log Files
 *.log
 .idea
+/app
+/index
+/tortoisegit.data
+/tortoisegit.index
